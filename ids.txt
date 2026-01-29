@@ -1,0 +1,6 @@
+# NES Outage IDs for my block
+# Database ID (use with -i flag)
+1978957
+
+# Public Reference Number (use with -r flag)
+2621583
