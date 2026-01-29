@@ -89,7 +89,6 @@ External APIs:
 | `Dockerfile` | Container image definition |
 | `docker-compose.yml` | Container orchestration |
 | `requirements.txt` | Python dependencies |
-| `ids.txt` | Example outage IDs for reference |
 
 ## How It Works
 
